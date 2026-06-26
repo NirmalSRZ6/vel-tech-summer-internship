@@ -309,13 +309,4 @@ MIT License — free to use, modify, and distribute with attribution.
 
 ---
 
-## 👨‍💻 Author
 
-**Your Name**
-- 🎓 B.Tech Cybersecurity Student
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
-
----
-
-*Built as a cybersecurity portfolio project. Star ⭐ this repo if you found it helpful!*
