@@ -1,0 +1,30 @@
+# Python cache files (auto-generated, don't upload these)
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Scan output files (may contain private network info)
+output/
+*.log
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# IDE/Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/

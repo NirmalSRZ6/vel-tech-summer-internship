@@ -1,3 +1,34 @@
-streamlit
-pandas
-plotly
+# ============================================================
+# Network Scanner - Python Dependencies
+# ============================================================
+# Install all dependencies with:
+#   pip install -r requirements.txt
+#
+# On Linux/Mac you may need:
+#   pip3 install -r requirements.txt
+#
+# On Windows, run as Administrator:
+#   pip install -r requirements.txt
+# ============================================================
+
+# scapy - The core of our ARP host discovery
+# Scapy is a powerful packet manipulation library used by 
+# cybersecurity professionals worldwide. It lets us craft,
+# send, and capture network packets at a low level.
+# Used for: ARP scanning to discover devices on the network
+# Docs: https://scapy.net/
+scapy==2.5.0
+
+# ============================================================
+# These are BUILT-IN Python modules (no installation needed):
+# ============================================================
+# socket          - TCP/UDP connections, hostname resolution
+# argparse        - Command-line argument parsing
+# concurrent.futures - Threading for fast port scanning
+# csv             - Writing CSV reports
+# os              - File system operations
+# datetime        - Timestamps for reports
+# platform        - OS detection (Windows/Linux/Mac)
+# sys             - System operations (exit, argv)
+# ssl             - HTTPS banner grabbing
+# ============================================================
